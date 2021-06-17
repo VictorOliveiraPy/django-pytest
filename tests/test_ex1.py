@@ -10,6 +10,7 @@ def test_example1(fixture_1):
     num = fixture_1
     assert num == 1
 
+
 def test_example2(fixture_1):
     num = fixture_1
     assert num == 1
